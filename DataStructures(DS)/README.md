@@ -8,3 +8,5 @@
   * ArrayStack
   * LinkedListStack  
 - Queue
+  * Circular Queue
+  * LinkList Queue
