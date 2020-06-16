@@ -10,3 +10,6 @@
 - Queue
   * Circular Queue
   * LinkList Queue
+- Linked List
+  * Circular Linked List
+  * Double Link List
