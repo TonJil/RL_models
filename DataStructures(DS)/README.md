@@ -13,3 +13,6 @@
 - Linked List
   * Circular Linked List
   * Double Link List
+  * Single Link List
+- Tree
+  * Simple Binary Tree
