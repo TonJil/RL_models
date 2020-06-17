@@ -16,3 +16,5 @@
   * Single Link List
 - Tree
   * Simple Binary Tree
+  * Binary Search Tree
+  * 23 Tree
