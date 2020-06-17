@@ -20,3 +20,6 @@
   * 23 Tree
   * Avl Tree  
   * Red Black Tree
+- Hash
+  * Simple Hash
+- Graph
