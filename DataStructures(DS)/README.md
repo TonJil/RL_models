@@ -18,3 +18,5 @@
   * Simple Binary Tree
   * Binary Search Tree
   * 23 Tree
+  * Avl Tree  
+  * Red Black Tree
