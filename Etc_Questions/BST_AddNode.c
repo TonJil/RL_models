@@ -6,3 +6,7 @@ struct node{
 	node *leftNode;
 	node *rightNode;
 };
+
+class tree{
+	public:
+		tree();
