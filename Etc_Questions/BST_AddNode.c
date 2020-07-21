@@ -12,3 +12,4 @@ class tree{
 		tree();
 
 	private:
+		node *root;
