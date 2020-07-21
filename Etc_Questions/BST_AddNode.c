@@ -10,3 +10,5 @@ struct node{
 class tree{
 	public:
 		tree();
+
+	private:
