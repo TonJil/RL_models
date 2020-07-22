@@ -13,3 +13,5 @@ class tree{
 
 	private:
 		node *root;
+		void addNode(int value, node *p);
+};
