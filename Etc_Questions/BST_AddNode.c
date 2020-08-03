@@ -15,3 +15,6 @@ class tree{
 		node *root;
 		void addNode(int value, node *p);
 };
+
+
+void tree::addNode(int value, node *p){
