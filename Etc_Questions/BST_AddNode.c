@@ -21,3 +21,5 @@ void tree::addNode(int value, node *p){
 	
 	if(p == NULL){
 	
+		p = new node;
+		p->value = value;
