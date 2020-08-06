@@ -23,3 +23,6 @@ void tree::addNode(int value, node *p){
 	
 		p = new node;
 		p->value = value;
+		p->leftNode = NULL;
+		p->rightNode = NULL;
+	
