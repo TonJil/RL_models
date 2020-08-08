@@ -31,3 +31,6 @@ void tree::addNode(int value, node *p){
 		if(value < p->value){
 			addNode(value, p->leftNode);
 		}else{
+			addNode(value, p->right);
+		}
+	}
