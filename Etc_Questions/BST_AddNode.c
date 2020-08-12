@@ -34,3 +34,4 @@ void tree::addNode(int value, node *p){
 			addNode(value, p->right);
 		}
 	}
+}
