@@ -9,3 +9,8 @@ int binary_search(int* array, int start, int end, int key){
  
     int mid=(start+end)/2;
  
+    if(array[mid] == key) {
+        return mid;
+    }else if(array[mid] > key) { 
+        return binary_search(array,0,mid-1,key);
+    }
