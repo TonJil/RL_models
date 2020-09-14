@@ -14,3 +14,6 @@ int binary_search(int* array, int start, int end, int key){
     }else if(array[mid] > key) { 
         return binary_search(array,0,mid-1,key);
     }
+    else 
+        return binary_search(array,mid+1,end,key);
+}
