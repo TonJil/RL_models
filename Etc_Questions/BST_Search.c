@@ -20,3 +20,8 @@ int binary_search(int* array, int start, int end, int key){
  
 int main(void){
     srand(time(NULL));
+ 
+    int array[100];
+    int i
+    ;
+    for(i=0; i<100; i++){
