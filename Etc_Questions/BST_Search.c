@@ -17,3 +17,6 @@ int binary_search(int* array, int start, int end, int key){
     else 
         return binary_search(array,mid+1,end,key);
 }
+ 
+int main(void){
+    srand(time(NULL));
