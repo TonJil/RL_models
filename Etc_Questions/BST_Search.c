@@ -25,3 +25,8 @@ int main(void){
     int i
     ;
     for(i=0; i<100; i++){
+        array[i]=2*i+1;
+    }
+ 
+    int key = 75;
+ 
