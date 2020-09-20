@@ -30,3 +30,5 @@ int main(void){
  
     int key = 75;
  
+    printf("%d\n",binary_search(array, 0, 99, key));
+ 
