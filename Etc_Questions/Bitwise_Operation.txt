@@ -22,3 +22,9 @@
  a & (0x1 << 5);
  비트 추출 (예> 6,5,4 비트)
  a = (a >> 4) & 0x7;
+ 
+2. 위의 연산을 매크로로 만들면
+ #define CLEAR_BIT(data, loc)
+ ((data) &= ~(0x1 << (loc)))
+ #define CLEAR_BITS(data, area, loc)
+ ((data) &= ~(arear) << (loc)))
