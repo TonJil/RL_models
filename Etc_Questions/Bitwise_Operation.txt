@@ -37,3 +37,6 @@
  #define INVERT_BITS(data, area, loc)
  ((data) ^= ((area) << (loc))) 
  #define CHECK_BIT(data, loc) 
+ ((data) & (0x1 << (loc))) 
+ #define EXTRACT_BITS(data, area, loc)
+ (((data >> (loc)) & (area)) 
