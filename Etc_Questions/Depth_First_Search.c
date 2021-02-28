@@ -4,4 +4,4 @@
 // 크기가 N*N인 2차원 배열
 // 재귀 호출로 구현
 
-#include <st
+#include <stdio
