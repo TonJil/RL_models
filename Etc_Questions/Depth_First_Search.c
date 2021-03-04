@@ -5,4 +5,4 @@
 // 재귀 호출로 구현
 
 #include <stdio.h>
-#in
+#inc
