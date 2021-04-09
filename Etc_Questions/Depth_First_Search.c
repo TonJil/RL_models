@@ -7,4 +7,4 @@
 #include <stdio.h>
 #include <string.h>
 
-int n, min
+int n, min; 
