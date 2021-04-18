@@ -7,4 +7,4 @@
 #include <stdio.h>
 #include <string.h>
 
-int n, min;         // 맵
+int n, min;         // 맵의 크
