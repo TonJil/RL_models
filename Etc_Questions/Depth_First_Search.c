@@ -7,4 +7,4 @@
 #include <stdio.h>
 #include <string.h>
 
-int n, min;         // 맵의 크기와 최소값을 나
+int n, min;         // 맵의 크기와 최소값을 나타내는 변
