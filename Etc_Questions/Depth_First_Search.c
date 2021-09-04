@@ -14,4 +14,4 @@ int map[100][100];  // 도시 수를 나타내는 n 으로 1 <= n <= 100
 void Depth_First_Search(int x, int y, int length)
 {
 	// 도착 지점에 도착했을 경우
-	if (
+	if (x == 
