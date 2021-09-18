@@ -17,4 +17,5 @@ void Depth_First_Search(int x, int y, int length)
 	if (x == n - 1 && y == n - 1)
 	{
 		// 현재 최소값이 length보다 크면, 
-		// length이 작은 것이므로 length를 최소값으로 지
+		// length이 작은 것이므로 length를 최소값으로 지정
+	
