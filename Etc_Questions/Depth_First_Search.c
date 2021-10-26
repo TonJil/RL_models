@@ -25,4 +25,4 @@ void Depth_First_Search(int x, int y, int length)
     // 방문했음을 0으로 표시
 	map[y][x] = 0; 
 
-	// 위로 이동할 수 있다면 
+	// 위로 이동할 수 있다면 이동
