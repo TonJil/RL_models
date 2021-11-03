@@ -27,4 +27,4 @@ void Depth_First_Search(int x, int y, int length)
 
 	// 위로 이동할 수 있다면 이동!
 	if (y > 0 && map[y - 1][x] != 0) 
-		Depth_
+		Depth_Fir
