@@ -29,4 +29,4 @@ void Depth_First_Search(int x, int y, int length)
 	if (y > 0 && map[y - 1][x] != 0) 
 		Depth_First_Search(x, y - 1, length + 1);
 	
-	// 아래로 이동할 
+	// 아래로 이동할 수 있
