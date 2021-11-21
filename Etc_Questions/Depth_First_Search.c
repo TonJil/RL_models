@@ -31,4 +31,4 @@ void Depth_First_Search(int x, int y, int length)
 	
 	// 아래로 이동할 수 있다면 이동!
 	if (y < n - 1 && map[y + 1][x] != 0) 
-		Depth_First_Search(x, y + 1, len
+		Depth_First_Search(x, y + 1, lengt
