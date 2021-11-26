@@ -33,4 +33,4 @@ void Depth_First_Search(int x, int y, int length)
 	if (y < n - 1 && map[y + 1][x] != 0) 
 		Depth_First_Search(x, y + 1, length + 1);
 	
-	// 왼쪽
+	// 왼쪽으로 
