@@ -35,4 +35,4 @@ void Depth_First_Search(int x, int y, int length)
 	
 	// 왼쪽으로 이동할 수 있다면 이동!
 	if (x > 0 && map[y][x - 1] != 0) 
-		De
+		Dept
