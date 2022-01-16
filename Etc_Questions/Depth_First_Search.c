@@ -37,4 +37,4 @@ void Depth_First_Search(int x, int y, int length)
 	if (x > 0 && map[y][x - 1] != 0) 
 		Depth_First_Search(x - 1, y, length + 1);
 	
-	// 오른
+	// 오른쪽으
