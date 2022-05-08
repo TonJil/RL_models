@@ -43,3 +43,5 @@ void Depth_First_Search(int x, int y, int length)
 
     // 지나간 자리를 원상태로 되돌리기 위해 1을 표시
 	map[y][x] = 1; 
+}
+
