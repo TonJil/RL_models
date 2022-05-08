@@ -42,4 +42,4 @@ void Depth_First_Search(int x, int y, int length)
 		Depth_First_Search(x + 1, y, length + 1);
 
     // 지나간 자리를 원상태로 되돌리기 위해 1을 표시
-	map[y][x] = 
+	map[y][x] = 1; 
