@@ -45,4 +45,4 @@ void Depth_First_Search(int x, int y, int length)
 	map[y][x] = 1; 
 }
 
-i
+int main
