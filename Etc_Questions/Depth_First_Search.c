@@ -47,4 +47,4 @@ void Depth_First_Search(int x, int y, int length)
 
 int main()
 {
-	printf("n
+	printf("n*n M
