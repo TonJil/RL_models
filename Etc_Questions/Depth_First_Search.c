@@ -48,4 +48,4 @@ void Depth_First_Search(int x, int y, int length)
 int main()
 {
 	printf("n*n Matrix\n");
-	scanf("%d", &n); 
+	scanf("%d", &n);  //
