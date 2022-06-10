@@ -48,4 +48,4 @@ void Depth_First_Search(int x, int y, int length)
 int main()
 {
 	printf("n*n Matrix\n");
-	scanf("%d", &n);  // 입력 파일의 첫 줄은 
+	scanf("%d", &n);  // 입력 파일의 첫 줄은 도시 수
