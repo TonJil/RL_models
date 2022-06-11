@@ -49,4 +49,4 @@ int main()
 {
 	printf("n*n Matrix\n");
 	scanf("%d", &n);  // 입력 파일의 첫 줄은 도시 수
-	mi
+	min = n
