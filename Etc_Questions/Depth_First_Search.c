@@ -49,4 +49,5 @@ int main()
 {
 	printf("n*n Matrix\n");
 	scanf("%d", &n);  // 입력 파일의 첫 줄은 도시 수
-	min = n * n;      // 모든 경로를 돌아다녀도 n * n, 최소값으로 지
+	min = n * n;      // 모든 경로를 돌아다녀도 n * n, 최소값으로 지정
+    
