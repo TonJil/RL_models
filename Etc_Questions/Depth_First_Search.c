@@ -52,4 +52,4 @@ int main()
 	min = n * n;      // 모든 경로를 돌아다녀도 n * n, 최소값으로 지정
     
     // 0으로 초기화
-	for (in
+	for (int i
