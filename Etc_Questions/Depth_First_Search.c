@@ -54,4 +54,4 @@ int main()
     // 0으로 초기화
 	for (int i = 0; i < n; i++)
 		for (int j = 0; j < n; j++)
-			map[i]
+			map[i][j
