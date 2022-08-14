@@ -57,4 +57,4 @@ int main()
 			map[i][j] = 0;
 
 	// 입력
-	int 
+	int inp
