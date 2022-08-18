@@ -58,3 +58,4 @@ int main()
 
 	// 입력
 	int input_i, input_j;
+	c
