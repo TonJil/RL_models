@@ -60,4 +60,5 @@ int main()
 	int input_i, input_j;
 	char str[5];
 
-	while (true
+	while (true) {
+	
