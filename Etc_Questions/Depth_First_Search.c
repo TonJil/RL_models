@@ -61,4 +61,4 @@ int main()
 	char str[5];
 
 	while (true) {
-		printf("Input: i index 
+		printf("Input: i index spa
