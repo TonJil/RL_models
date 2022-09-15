@@ -61,4 +61,4 @@ int main()
 	char str[5];
 
 	while (true) {
-		printf("Input: i index space j inde
+		printf("Input: i index space j index 
