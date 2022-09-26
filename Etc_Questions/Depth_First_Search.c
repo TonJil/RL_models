@@ -62,4 +62,4 @@ int main()
 
 	while (true) {
 		printf("Input: i index space j index \n");
-		scanf("%d %d", &inp
+		scanf("%d %d", &input
