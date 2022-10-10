@@ -64,4 +64,4 @@ int main()
 		printf("Input: i index space j index \n");
 		scanf("%d %d", &input_i, &input_j);
 		
-		map[input_i][input
+		map[input_i][input_j] =
