@@ -65,4 +65,4 @@ int main()
 		scanf("%d %d", &input_i, &input_j);
 		
 		map[input_i][input_j] = 1;
-      
+       
