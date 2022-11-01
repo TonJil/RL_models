@@ -66,4 +66,4 @@ int main()
 		
 		map[input_i][input_j] = 1;
        
-        printf("close x or enter 
+        printf("close x or enter \n
