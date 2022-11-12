@@ -69,4 +69,4 @@ int main()
         printf("close x or enter \n");
         gets(str);
 
-		if (strcmp(str, "x") ==
+		if (strcmp(str, "x") == 0 )
