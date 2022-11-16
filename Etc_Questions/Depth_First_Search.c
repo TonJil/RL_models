@@ -70,4 +70,5 @@ int main()
         gets(str);
 
 		if (strcmp(str, "x") == 0 ) {
-			break
+			break;
+		
