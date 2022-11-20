@@ -71,4 +71,5 @@ int main()
 
 		if (strcmp(str, "x") == 0 ) {
 			break;
+		}
 		
