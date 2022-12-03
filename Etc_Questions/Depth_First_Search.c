@@ -76,4 +76,4 @@ int main()
 	}
 
 	// DFS 알고리즘 
-	Depth_First_Sea
+	Depth_First_Searc
