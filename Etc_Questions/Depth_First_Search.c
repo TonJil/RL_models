@@ -78,4 +78,4 @@ int main()
 	// DFS 알고리즘 
 	Depth_First_Search(0, 0, 1); // 시작!
 
-	printf("최단 거
+	printf("최단 거리: 
