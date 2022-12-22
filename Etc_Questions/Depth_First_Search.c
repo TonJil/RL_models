@@ -79,4 +79,4 @@ int main()
 	Depth_First_Search(0, 0, 1); // 시작!
 
 	printf("최단 거리: %d\n", min);
-	
+	ge
