@@ -80,4 +80,4 @@ int main()
 
 	printf("최단 거리: %d\n", min);
 	getch();
-	r
+	return
