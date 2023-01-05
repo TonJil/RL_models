@@ -9,3 +9,8 @@ struct node{
 class Node{
 	public:
 		Node();
+
+	private:
+		node *head;
+		void deleteNode(Node *node);
+};
