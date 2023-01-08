@@ -19,3 +19,6 @@ class Node{
 void deleteNode(Node *node){
 	if(node == NULL){
 		return;
+	}
+	
+	if(node == head){   
