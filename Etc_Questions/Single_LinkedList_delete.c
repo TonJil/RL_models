@@ -14,3 +14,8 @@ class Node{
 		node *head;
 		void deleteNode(Node *node);
 };
+
+
+void deleteNode(Node *node){
+	if(node == NULL){
+		return;
