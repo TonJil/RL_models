@@ -22,3 +22,4 @@ void deleteNode(Node *node){
 	}
 	
 	if(node == head){   
+       head = head->next;
