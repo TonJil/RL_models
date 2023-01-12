@@ -25,3 +25,9 @@ void deleteNode(Node *node){
        head = head->next;
 	}else{
 		node * temp = head;
+		while(temp->next != node){
+			temp = temp->next;
+		}
+
+		temp->next = node->next;
+	}
