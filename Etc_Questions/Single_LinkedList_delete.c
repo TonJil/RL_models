@@ -31,3 +31,6 @@ void deleteNode(Node *node){
 
 		temp->next = node->next;
 	}
+
+	delete node;
+}
