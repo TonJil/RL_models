@@ -10,3 +10,5 @@
 //int check_anagram(char [], char []);
 
 int check_anagram(char a[], char b[])
+{
+   int first[26] = {0}, second[26] = {0}, index = 0;
