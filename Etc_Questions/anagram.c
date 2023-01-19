@@ -7,3 +7,6 @@
 
 
 // 아나그램 체크 프로그램
+//int check_anagram(char [], char []);
+
+int check_anagram(char a[], char b[])
