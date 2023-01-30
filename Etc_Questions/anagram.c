@@ -17,3 +17,10 @@ int check_anagram(char a[], char b[])
    {
       first[ a[index] - 'a' ]++;
       index++;
+   }
+ 
+   index = 0;
+ 
+   while (b[index] != '\0')
+   {
+      second [ b[index] - 'a' ]++;
