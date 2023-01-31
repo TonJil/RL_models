@@ -24,3 +24,5 @@ int check_anagram(char a[], char b[])
    while (b[index] != '\0')
    {
       second [ b[index] - 'a' ]++;
+      index++;
+   }
