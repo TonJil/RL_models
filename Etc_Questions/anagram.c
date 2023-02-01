@@ -26,3 +26,5 @@ int check_anagram(char a[], char b[])
       second [ b[index] - 'a' ]++;
       index++;
    }
+ 
+   for (index = 0; index < 26; index++)
