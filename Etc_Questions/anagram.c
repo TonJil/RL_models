@@ -31,3 +31,6 @@ int check_anagram(char a[], char b[])
    {
       if (first[index] != second[index])
          return 0;
+   }
+ 
+   return 1;
