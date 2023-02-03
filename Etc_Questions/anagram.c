@@ -29,3 +29,5 @@ int check_anagram(char a[], char b[])
  
    for (index = 0; index < 26; index++)
    {
+      if (first[index] != second[index])
+         return 0;
