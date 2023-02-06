@@ -37,3 +37,6 @@ int check_anagram(char a[], char b[])
 }
 
  
+int main()
+{
+   char a[100], b[100];
