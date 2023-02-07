@@ -40,3 +40,9 @@ int check_anagram(char a[], char b[])
 int main()
 {
    char a[100], b[100];
+   int flag;
+ 
+   printf("Enter first string\n");
+   gets(a);
+ 
+   printf("Enter second string\n");
