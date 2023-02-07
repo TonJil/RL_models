@@ -46,3 +46,5 @@ int main()
    gets(a);
  
    printf("Enter second string\n");
+   gets(b);
+ 
