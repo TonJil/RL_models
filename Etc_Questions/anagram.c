@@ -48,3 +48,5 @@ int main()
    printf("Enter second string\n");
    gets(b);
  
+   flag = check_anagram(a, b);
+ 
