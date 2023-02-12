@@ -50,3 +50,6 @@ int main()
  
    flag = check_anagram(a, b);
  
+   if (flag == 1)
+      printf("\"%s\" and \"%s\" are anagrams.\n", a, b);
+   else
