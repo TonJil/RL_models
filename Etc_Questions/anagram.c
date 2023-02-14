@@ -55,3 +55,5 @@ int main()
    else
       printf("\"%s\" and \"%s\" are not anagrams.\n", a, b);
  
+   return 0;
+}
