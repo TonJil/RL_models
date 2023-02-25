@@ -9,3 +9,5 @@ int my_atoi(const char *pStr){
     
     if(*pStr == '-'){
         sign = -1;
+        pStr++;
+    }
