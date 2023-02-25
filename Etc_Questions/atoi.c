@@ -6,3 +6,6 @@ int my_atoi(const char *pStr){
     int nResult = 0;
   
     if(pStr == NULL) return 0;
+    
+    if(*pStr == '-'){
+        sign = -1;
