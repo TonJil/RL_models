@@ -11,3 +11,8 @@ int my_atoi(const char *pStr){
         sign = -1;
         pStr++;
     }
+
+    for( ; *pStr != '\0'; pStr++){
+        if(*pStr  < '0' || *pStr > '9'){            
+            puts("숫자가 아닙니다.");
+            return 0;
