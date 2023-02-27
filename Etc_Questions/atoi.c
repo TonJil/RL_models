@@ -20,3 +20,7 @@ int my_atoi(const char *pStr){
 
         nResult *= 10;
         nResult += *pStr - '0';
+    }    
+
+    return nResult * sign;
+}
