@@ -17,3 +17,6 @@ int my_atoi(const char *pStr){
             puts("숫자가 아닙니다.");
             return 0;
         }
+
+        nResult *= 10;
+        nResult += *pStr - '0';
