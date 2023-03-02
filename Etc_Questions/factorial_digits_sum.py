@@ -6,3 +6,6 @@ def factorial(n):
  
 def sum_digits(n):
     return sum([int(i) for i in str(n)])
+ 
+ 
+sumfac = sum_digits(factorial(14))
