@@ -5,3 +5,6 @@
 
 unsigned int factorial(unsigned int n){
     return factorial_tail_rec(n, 1);
+}
+ 
+unsigned int factorial_tail_rec(unsigned int n, unsigned int acc){
