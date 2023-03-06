@@ -16,3 +16,4 @@ unsigned int factorial_tail_rec(unsigned int n, unsigned int acc){
 
 //========================================================
 //일반적인 factorial
+unsigned int factorial(unsigned int n){
