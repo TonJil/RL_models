@@ -19,3 +19,7 @@ unsigned int factorial_tail_rec(unsigned int n, unsigned int acc){
 unsigned int factorial(unsigned int n){
 
 	if (n == 0){
+		return 1;
+	}
+    return factorial( n * factorial(n-1));
+}
