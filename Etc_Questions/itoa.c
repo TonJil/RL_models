@@ -8,3 +8,4 @@ void my_itoa(int num, char *pStr){
     int i;
 
     if(pStr == NULL) 
+        return;
