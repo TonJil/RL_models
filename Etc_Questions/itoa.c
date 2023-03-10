@@ -18,3 +18,9 @@ void my_itoa(int num, char *pStr){
 
     while(1){
         if( (num / deg) > 0)
+            cnt++;
+        else
+            break;
+
+        deg *= radix;
+    }
