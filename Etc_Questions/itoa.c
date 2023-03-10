@@ -9,3 +9,6 @@ void my_itoa(int num, char *pStr){
 
     if(pStr == NULL) 
         return;
+
+    if(num < 0){
+        *pStr = '-';
