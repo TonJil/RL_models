@@ -15,3 +15,6 @@ void my_itoa(int num, char *pStr){
         num *= -1;
         pStr++;
     }
+
+    while(1){
+        if( (num / deg) > 0)
