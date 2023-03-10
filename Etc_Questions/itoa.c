@@ -12,3 +12,6 @@ void my_itoa(int num, char *pStr){
 
     if(num < 0){
         *pStr = '-';
+        num *= -1;
+        pStr++;
+    }
