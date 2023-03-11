@@ -31,3 +31,7 @@ void my_itoa(int num, char *pStr){
 
         *pStr    = (num / deg) + '0';
         num        -= (num / deg) * deg;
+        deg        /= radix;
+    }
+    *pStr = '\0';
+}
