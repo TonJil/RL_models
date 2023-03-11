@@ -24,3 +24,10 @@ void my_itoa(int num, char *pStr){
 
         deg *= radix;
     }
+
+    deg /= radix;
+
+    for(i = 0; i < cnt; i++, pStr++){
+
+        *pStr    = (num / deg) + '0';
+        num        -= (num / deg) * deg;
