@@ -5,3 +5,4 @@
 // 뒤에서 K번째 원소를 찾는 알고리즘
 
 // C++
+node* nthToLast(node* head, int k, int & i){
