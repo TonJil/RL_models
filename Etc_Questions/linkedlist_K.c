@@ -12,3 +12,6 @@ node* nthToLast(node* head, int k, int & i){
 	}
 
 	node * nd = nthToLast(head->next, i);
+
+	i = i + 1;
+	if(i == k){
