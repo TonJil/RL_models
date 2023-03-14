@@ -18,3 +18,4 @@ node* nthToLast(node* head, int k, int & i){
 		return head;
 	}
 	return nd;
+}
