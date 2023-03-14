@@ -17,3 +17,4 @@ node* nthToLast(node* head, int k, int & i){
 	if(i == k){
 		return head;
 	}
+	return nd;
