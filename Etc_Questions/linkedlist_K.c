@@ -15,3 +15,4 @@ node* nthToLast(node* head, int k, int & i){
 
 	i = i + 1;
 	if(i == k){
+		return head;
