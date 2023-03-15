@@ -4,3 +4,6 @@
 // 더하기 연산자만 사용 하라. 346 page
 
 #include <stdio.h>
+// 양수를 음수로 음수를 양수로 뒤집는다.
+int negate(int a){
+    int neg = 0;
