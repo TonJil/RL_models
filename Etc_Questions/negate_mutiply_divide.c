@@ -13,3 +13,5 @@ int negate(int a){
         neg += d;
         a += d;
     }
+    return neg;
+}
