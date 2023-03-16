@@ -10,3 +10,6 @@ int negate(int a){
     int d = a < 0 ? 1 : -1;
     
     while(a != 0 ){
+        neg += d;
+        a += d;
+    }
