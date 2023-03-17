@@ -19,3 +19,5 @@ int negate(int a){
 // 절대 값을 구한다. 편의 상 구현 함.
 int aabs(int a){
     if( a < 0){
+        return negate(a); // 음수이면 양수로 변환
+    }else{
