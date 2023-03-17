@@ -15,3 +15,5 @@ int negate(int a){
     }
     return neg;
 }
+
+// 절대 값을 구한다. 편의 상 구현 함.
