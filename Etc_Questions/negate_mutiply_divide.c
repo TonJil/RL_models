@@ -21,3 +21,4 @@ int aabs(int a){
     if( a < 0){
         return negate(a); // 음수이면 양수로 변환
     }else{
+        return a;
