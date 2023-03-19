@@ -27,3 +27,7 @@ int aabs(int a){
 
 //곱셈
 //a를 b번 더하여 a*b를 구현 한다.
+int mutiply(int a, int b){
+    
+    if( a < b ){
+        return (b, a);//a<b이면 이렇게 해야 빠르다.
