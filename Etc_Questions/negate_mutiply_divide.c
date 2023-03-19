@@ -22,3 +22,8 @@ int aabs(int a){
         return negate(a); // 음수이면 양수로 변환
     }else{
         return a;
+    }
+}
+
+//곱셈
+//a를 b번 더하여 a*b를 구현 한다.
