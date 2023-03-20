@@ -39,3 +39,5 @@ int mutiply(int a, int b){
         sum += a;
     }
     // 마이너스이면 양수로 변환
+    if( b < 0 ){ 
+        sum = negate(sum);
