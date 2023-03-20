@@ -35,3 +35,6 @@ int mutiply(int a, int b){
     
     int sum = 0;
     int i =0;
+    for(i = aabs(b); i > 0; i--){
+        sum += a;
+    }
