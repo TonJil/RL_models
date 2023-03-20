@@ -38,3 +38,4 @@ int mutiply(int a, int b){
     for(i = aabs(b); i > 0; i--){
         sum += a;
     }
+    // 마이너스이면 양수로 변환
