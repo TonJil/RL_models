@@ -32,3 +32,6 @@ int mutiply(int a, int b){
     if( a < b ){
         return (b, a);//a<b이면 이렇게 해야 빠르다.
     }
+    
+    int sum = 0;
+    int i =0;
