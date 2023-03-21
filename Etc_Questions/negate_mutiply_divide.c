@@ -44,3 +44,10 @@ int mutiply(int a, int b){
     }
     return sum;
 }
+
+// 나눗셈
+
+int divide(int a, int b){
+    
+    if(b == 0){
+        printf("Error");
