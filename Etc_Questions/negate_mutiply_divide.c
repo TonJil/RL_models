@@ -54,3 +54,5 @@ int divide(int a, int b){
         return 0;
     }
     
+    int aaaa = aabs(a);
+    int bbbb = aabs(b);
