@@ -58,3 +58,6 @@ int divide(int a, int b){
     int bbbb = aabs(b);
     
     int product = 0;
+    int xx = 0;
+    
+    // a  넘지 않도록 함.
