@@ -57,3 +57,4 @@ int divide(int a, int b){
     int aaaa = aabs(a);
     int bbbb = aabs(b);
     
+    int product = 0;
