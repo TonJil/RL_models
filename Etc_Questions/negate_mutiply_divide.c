@@ -61,3 +61,6 @@ int divide(int a, int b){
     int xx = 0;
     
     // a  넘지 않도록 함.
+    while(product + bbbb <= aaaa){ 
+        product += bbbb;
+        xx++;
