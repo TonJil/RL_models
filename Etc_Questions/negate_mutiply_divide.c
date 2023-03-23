@@ -68,3 +68,8 @@ int divide(int a, int b){
     
     if( (a < 0 && b < 0) || (a > 0 && b > 0) ){
         return xx ;
+    }else{
+        return negate(xx);
+    }
+}
+
