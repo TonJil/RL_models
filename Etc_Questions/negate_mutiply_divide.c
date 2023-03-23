@@ -66,3 +66,5 @@ int divide(int a, int b){
         xx++;
     }
     
+    if( (a < 0 && b < 0) || (a > 0 && b > 0) ){
+        return xx ;
