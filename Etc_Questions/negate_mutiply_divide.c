@@ -76,3 +76,5 @@ int divide(int a, int b){
 
 
 int main()
+{
+    int a = 100;
