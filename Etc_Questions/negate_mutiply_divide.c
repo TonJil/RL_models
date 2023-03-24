@@ -78,3 +78,6 @@ int divide(int a, int b){
 int main()
 {
     int a = 100;
+    int b = 100;
+    int total = 0;
+    
