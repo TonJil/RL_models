@@ -81,3 +81,5 @@ int main()
     int b = 100;
     int total = 0;
     
+    //b 를 negate 한다음 더하여 수의 차를 계산 한다.
+    total  = a + negate(b);
