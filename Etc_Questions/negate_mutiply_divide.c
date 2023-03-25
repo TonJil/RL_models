@@ -83,3 +83,8 @@ int main()
     
     //b 를 negate 한다음 더하여 수의 차를 계산 한다.
     total  = a + negate(b);
+    printf("마이너스 ==> %d\n", total );
+    
+    total = 0;
+    total = mutiply(a, b);
+    printf("곱셈 ==> %d\n", total );
