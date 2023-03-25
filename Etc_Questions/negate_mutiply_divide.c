@@ -88,3 +88,6 @@ int main()
     total = 0;
     total = mutiply(a, b);
     printf("곱셈 ==> %d\n", total );
+    
+    total = 0;
+    a = 10000000;
