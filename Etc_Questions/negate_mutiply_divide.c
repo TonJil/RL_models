@@ -91,3 +91,6 @@ int main()
     
     total = 0;
     a = 10000000;
+    b = 200;
+    total  = divide(a,b);
+    printf("나눗셈 ==> %d\n", total );
