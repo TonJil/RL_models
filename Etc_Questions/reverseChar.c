@@ -5,3 +5,8 @@
 
 void reverse(char * str){
 	
+	char * end = str;
+	char temp;
+
+	if(str){
+		while(*end){ // 문자열의 끝을 찾음
