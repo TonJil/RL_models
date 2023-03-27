@@ -94,3 +94,5 @@ int main()
     b = 200;
     total  = divide(a,b);
     printf("나눗셈 ==> %d\n", total );
+    return 0;
+}
