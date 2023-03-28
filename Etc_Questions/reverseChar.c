@@ -10,3 +10,7 @@ void reverse(char * str){
 
 	if(str){
 		while(*end){ // 문자열의 끝을 찾음
+			++end;
+		}
+		--end; //마지막 문자는 NULL!!한문자 앞으로.
+    
