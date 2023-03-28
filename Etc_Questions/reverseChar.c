@@ -17,3 +17,5 @@ void reverse(char * str){
     // 맨 앞의 문자을 맨뒤 문자로 바꾸고 포인터 이동
     // 중간 지점 까지 반복
 		while (str < end){
+			temp = *str;
+			*str++ =  *end;
