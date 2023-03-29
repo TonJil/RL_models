@@ -19,3 +19,7 @@ void reverse(char * str){
 		while (str < end){
 			temp = *str;
 			*str++ =  *end;
+			*end -- = temp;
+		}
+	} 
+}
