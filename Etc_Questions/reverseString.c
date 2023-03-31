@@ -9,3 +9,6 @@ void reverseString( char str[], int start, int end )
       temp = str[start];
       str[start] = str[end];
       str[end] = temp;
+      ++start, --end;
+   }
+}
