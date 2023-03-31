@@ -14,3 +14,5 @@ void reverseString( char str[], int start, int end )
 }
 
 void reverseWords( char str[] )
+{
+   int start = 0, end = 0, length;
