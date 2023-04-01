@@ -19,3 +19,7 @@ void reverseWords( char str[] )
    length = strlen(str);
 
    reverseString( str, start, length-1 );
+
+   while( end < length ) {
+      if( str[end] != ' ' ) {
+         start = end;
