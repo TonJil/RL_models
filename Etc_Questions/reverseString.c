@@ -25,3 +25,5 @@ void reverseWords( char str[] )
          start = end;
 
          while( end < length && str[end] != ' ' )
+            ++end;
+         --end;
