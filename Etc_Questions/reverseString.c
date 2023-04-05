@@ -30,3 +30,6 @@ void reverseWords( char str[] )
 
          reverseString( str, start, end );
       }
+      ++end;
+   }
+}
