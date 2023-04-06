@@ -33,3 +33,6 @@ void reverseWords( char str[] )
       ++end;
    }
 }
+
+int main( void )
+{
