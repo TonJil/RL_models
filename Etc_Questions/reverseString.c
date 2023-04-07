@@ -39,3 +39,5 @@ int main( void )
    char string[] = "in search of algorithmic elegance";
    reverseWords( string );
    printf( "%s\n", string );
+   return 0;
+}
