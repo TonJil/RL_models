@@ -9,3 +9,6 @@ int my_strcmp(const char * pStr1, const char * pStr2){
  
      for( ; (*pStr1) != '\0' || (*pStr2) != '\0'; pStr1++, pStr2++){
          if((*pStr1) > (*pStr2))        
+         	return 1;
+         
+         if((*pStr1) < (*pStr2))        
