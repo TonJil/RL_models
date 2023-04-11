@@ -11,3 +11,7 @@ char* my_strcpy(char * pDest,const char * pSrc){
      while(*pSrc != '\0'){
          *pTemp++ = *pSrc++; 
      }
+ 
+     *pTemp = '\0';
+ 
+     return pDest;
