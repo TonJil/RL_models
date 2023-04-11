@@ -9,3 +9,5 @@ char* my_strcpy(char * pDest,const char * pSrc){
      if(pDest == NULL || pSrc == NULL) return NULL;
  
      while(*pSrc != '\0'){
+         *pTemp++ = *pSrc++; 
+     }
