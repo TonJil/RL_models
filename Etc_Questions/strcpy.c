@@ -4,3 +4,8 @@
 // 복사된 문자열 포인터를 리턴
 
 char* my_strcpy(char * pDest,const char * pSrc){
+     char *pTemp = pDest;
+ 
+     if(pDest == NULL || pSrc == NULL) return NULL;
+ 
+     while(*pSrc != '\0'){
