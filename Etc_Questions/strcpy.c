@@ -15,3 +15,4 @@ char* my_strcpy(char * pDest,const char * pSrc){
      *pTemp = '\0';
  
      return pDest;
+ }
