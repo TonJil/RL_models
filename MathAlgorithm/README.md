@@ -7,3 +7,4 @@
 - Base Conversion                 진법 변환  Pass~~
 - Prime Number                    소수
    * Sieve of Eratosthenes        에라토스테네스의 체
+     * 1 ~ N 까지의 범위안에 들어 가는 모든 소수 구하려면 에라토스테네스의 체 사용 할 수 있다 
