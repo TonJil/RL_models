@@ -21,3 +21,6 @@
 - Matrix                          행렬 (덧셈, 곱셈, 제곱)
 - Fibonacci Nubmer                피보나치 수           
    * Pisano Period                피사노 주기
+
+- Binomial Coefficient            이항 계수        Pass~~
+    * Pascal's Triangle           파스칼의 삼각형 Pass~~
