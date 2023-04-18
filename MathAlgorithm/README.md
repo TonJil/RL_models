@@ -24,3 +24,6 @@
 
 - Binomial Coefficient            이항 계수        Pass~~
     * Pascal's Triangle           파스칼의 삼각형 Pass~~
+      * 이항 계수를 삼각형 모양으로 해결
+      * N번 줄에는 수 를 N개만 쓴다
+      * 각줄의 첫 번째와 마지막 수는 1이다.
