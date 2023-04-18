@@ -19,3 +19,5 @@
 - Factorial                       팩토리얼
 - A^B                             a의 b 제곱
 - Matrix                          행렬 (덧셈, 곱셈, 제곱)
+- Fibonacci Nubmer                피보나치 수           
+   * Pisano Period                피사노 주기
