@@ -29,3 +29,8 @@
       * 각줄의 첫 번째와 마지막 수는 1이다.
       * 나머지 수는 윗줄의 왼쪽수와 오른쪽 수를 더해서 만든다.
     * Lucas Theorem               뤼카의 정리     Pass~~
+
+- Catalan Number                  카탈란 수       Pass~~ 
+
+- Euler's Phi Function            오일러 피 함수 
+- Extended Euclidean Algorithm    확장 유클리드 알고리즘 Pass~~
