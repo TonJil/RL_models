@@ -17,3 +17,6 @@
 - Math Algorithm
   * 설명 
     * 알고리즘 설계/해결에 필요한 수학적 지식 정리.
+
+- Etc Questions
+  * 그 밖에 정리... 
