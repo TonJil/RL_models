@@ -15,3 +15,5 @@
      * Dynamic Programming 정리.
 
 - Math Algorithm
+  * 설명 
+    * 알고리즘 설계/해결에 필요한 수학적 지식 정리.
