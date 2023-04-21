@@ -13,3 +13,5 @@
 - Dynamic Programming(DP)
   * 설명 
      * Dynamic Programming 정리.
+
+- Math Algorithm
